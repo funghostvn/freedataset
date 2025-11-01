@@ -9,6 +9,7 @@ Asian Pacific,Malaysia,FBMKLCI:IND,FTSE Kuala Lumpur Composite Index
 Asian Pacific,Indonesia,JCI:IND,
 Asian Pacific,Singapore,FSTAS:IND,
 Asian Pacific,Thailand,SET:IND,
+Asian Pacific,Vietnam,VNINDEX:IND,
 Asian Pacific,Bangladesh,DSEX:IND,
 Asian Pacific,Philippines,PCOMP:IND,
 Asian Pacific,Sri Lanka,CSEALL:IND,
@@ -34,3 +35,4 @@ Africa,Kuwait,KWSEMM:IND,
 Africa,Serbia,BELEXLIN:IND,
 Africa,Israel,TA-125:IND,
 Africa,Saudi Arabia,SASEIDX:IND,
+
